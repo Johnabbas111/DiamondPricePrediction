@@ -1,6 +1,5 @@
-p
-a
-n
-d
-a
-s
+pandas
+numpy
+flask
+matplotlib
+seaborn
